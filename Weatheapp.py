@@ -10,7 +10,7 @@ root.title("MAUSAM VIBHAG")
 root.geometry("600x400")
 root.minsize(600,400)
 root.maxsize(600,400)
-root.iconbitmap(r"C:\Users\Mohit Sharma\OneDrive\Desktop\New folder\Projects\icon.ico")
+root.iconbitmap(r"C:\Users\Mohit Sharma\OneDrive\Desktop\New folder\Mausam_Vibhag\icon.ico")
 
 # ************************************Function to print in mainbox*************************
 
